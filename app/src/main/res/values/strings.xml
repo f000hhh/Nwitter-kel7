@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="str_intro_text">Lihat Apa Yang Terjadi Pada Dunia Saat Ini</string>
+    <string name="str_create_account">Buat Akun</string>
+    <string name="str_have_account">Sudah memiliki akun?</string>
+    <string name="str_log_in">Masuk</string>
+    <string name="str_create_your_account">Buat Akunmu</string>
+    <string name="str_name">Nama</string>
+    <string name="str_email">Email</string>
+    <string name="str_username">Username</string>
+    <string name="str_password">Kata Sandi</string>
+    <string name="str_create">Buat</string>
+    <string name="str_home">Beranda</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="str_log_in_to_twitter">Masuk ke Nwitter.</string>
+</resources>
